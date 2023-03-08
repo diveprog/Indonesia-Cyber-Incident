@@ -24,4 +24,4 @@ There were 28,000 personal and login information stolen. The data contains sensi
 
 - ### BNPB Youtube Account
 December <p>
-The BNPB YouTube account which was originally named "BNPB Indonesia" was observed to change its name to "Ethereum 2.0". Apart from changing the name, the hacker also used BNPB's YouTube account to broadcast live entitled "Ethereum CEO: Ethereum Breakout! Ethereum News, ETH 2.0 RELEASE Date"
+The BNPB YouTube account which was originally named "BNPB Indonesia" was observed to change its name to "Ethereum 2.0". Apart from changing the name, the hacker also used BNPB's YouTube account to broadcast live entitled "Ethereum CEO: Ethereum Breakout! Ethereum News.
