@@ -1,2 +1,3 @@
-# indonesia-cyber-incident
- Indonesia has experienced several significant cyber incidents in recent years. This repository highlight the ongoing and following threat of cyber attacks occured in Indonesia
+This repository was created to track and view the history of a number of cyber incidents that happened in Indonesia, showing that the Indonesian government is less cognizant of data privacy.
+
+Indonesia Cyber Incident stored in folders to make it easier to find incidents based on the year of occurred
