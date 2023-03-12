@@ -76,6 +76,6 @@ LeakBase has added  SQL database file of Qlobot.com, which contains info related
 March 8 <p>
 Threat Actor claims to have access to database from PT. Bank Commonwealth, a subsidiary of the Sydney based Commonwealth Bank of Australia and is kept for sale. The claimed database contains 162M user data which includes account number, name, email, ph no, etc. 
 
-- #### BPJS Ketenagakerjaan
+- ### BPJS Ketenagakerjaan
 March 12 <p>
 BPJS Ketenagakerjaan's database has been added to the hacker's forum for sale by Bjorka. According to the threat actor, there are 19,564,922 records. Name, email, NIK (National ID CARD Number), phone, address, Birthdate, gender, and other details are included in the claimed data.
