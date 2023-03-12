@@ -1,5 +1,5 @@
 - ### BPJS Kesehatan
-May <p>
+May <p> 
 The data sold for the price of 0.15 Bitcoin (around Rp. 84.4 million, the exchange rate of May 20, 2021) contains NIK, mobile number, e-mail, address, to salary. According to the deepening carried out by the Ministry of Communication and Information (Kemenkominfo), it was concluded that the dataset sample was allegedly identical to BPJS Health's data.
 
 - ### BRI Life
