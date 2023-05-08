@@ -79,3 +79,7 @@ Threat Actor claims to have access to database from PT. Bank Commonwealth, a sub
 - ### BPJS Ketenagakerjaan
 March 12 <p>
 BPJS Ketenagakerjaan's database has been added to the hacker's forum for sale by Bjorka. According to the threat actor, there are 19,564,922 records. Name, email, NIK (National ID CARD Number), phone, address, Birthdate, gender, and other details are included in the claimed data.
+
+- ### Bank BSI
+May 08 <p>
+Under investigate
